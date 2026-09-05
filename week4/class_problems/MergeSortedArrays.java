@@ -1,4 +1,4 @@
-package week3.class_problems;
+package week4.class_problems;
 public class MergeSortedArrays {
 
     static int[] mergeSortedArrays(int[] arr1, int[] arr2) {
