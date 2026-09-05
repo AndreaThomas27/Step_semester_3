@@ -1,4 +1,4 @@
-package week1.class_problems;
+package string.class_problems;
 public class BMICalculator {
 
     static String getBmiStatus(double bmi) {

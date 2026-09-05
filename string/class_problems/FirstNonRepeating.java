@@ -1,4 +1,4 @@
-package week1.class_problems;
+package string.class_problems;
 import java.util.Scanner;
 
 public class FirstNonRepeating {
