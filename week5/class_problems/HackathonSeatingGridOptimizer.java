@@ -49,4 +49,3 @@ public class HackathonSeatingGridOptimizer {
         System.out.println(classifyRows(seatingScores, threshold));
     }
 }
-
